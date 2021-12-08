@@ -1,0 +1,89 @@
+.test {
+    background-color: black;
+}
+.reg-container {
+    max-width: 80%;
+    margin: auto;
+}
+.colorlogo {
+    background-color: #ca3a01;
+    color: white;
+}
+.colorpasword {
+    color: #ca3a01;
+}
+.resize-nav {
+    max-width: 40%;
+    margin-inline-start: auto!important;
+}
+.brand-text {
+    font-weight: bolder;
+    font-size: x-large;
+    margin: 10px;
+}
+.colorhead {
+    background-color: #0E1541!important;
+}
+.colorpasword{
+    color: #47375f;
+}
+.colorlogo{
+    background-color: #0e1541;
+}
+.navbar-header{
+    background-color: white;
+}
+.demo-nifty-settings{
+    display: none;
+}
+.head-square{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 10%;
+    color: black;
+}
+.head-square_ID{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 10%;
+    color: black;
+    background-color: #e8e8e8;
+}
+.my-panel-body{
+    /*margin-left: 5rem;*/
+    /*margin-right: -5rem;*/
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 25%);
+    width: 75%;
+}
+.my-panel{
+    display: grid;
+    justify-items: center;
+}
+.test-panel{
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 20%)!important;
+}
+.test-data{
+    display: flex;
+    justify-content: center;
+}
+.table-danger {
+    background-color: #b052c0;
+}
+.table-info {
+    background-color: #294f75;
+}
+.language-width{
+    min-width: 127px!important;
+}
+.note-icon-font .note-recent-color {
+    background-color: white!important;
+}
+.stronadom-spotkanie{
+    text-align: center;
+    padding-top: 1px;
+    color: #0e1541;
+}
+
+

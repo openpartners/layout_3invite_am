@@ -1,0 +1,38 @@
+
+body{
+    /*margin: 0;*/
+    /*padding: 0;*/
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-image:url(../img/bg-img-2.jpg);
+
+
+}
+
+.test_tlo{
+
+
+    background-position: center;
+    background-size: cover;
+    color: #072231;
+    justify-items: stretch;
+    align-items: flex-end;
+
+
+
+}
+.fon{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 20px;
+
+    /*justify-content: center;*/
+    /*align-items: center;*/
+
+}
+
+
